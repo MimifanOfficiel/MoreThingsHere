@@ -1,0 +1,16 @@
+{
+  "item.mth.cutting_knife": "Cutting Knife",
+  "item.mth.bread_slice": "Bread Slice",
+  "item.mth.omega_coal": "Omega Coal",
+  "item.mth.beta_coal": "Beta Coal",
+  "item.mth.alpha_coal": "Alpha Coal",
+
+  "block.mth.test": "Test Block",
+  "block.mth.infusion_machine": "Infusion Machine",
+
+  "itemGroup.mth_tools": "MoreThingsHere: Tools",
+  "itemGroup.mth_foods": "MoreThingsHere: Food",
+  "itemGroup.mth_fuels": "MoreThingsHere: Fuels",
+  "itemGroup.mth_blocks": "MoreThingsHere: Blocks",
+  "itemGroup.mth_machines": "MoreThingsHere: Machines"
+}
